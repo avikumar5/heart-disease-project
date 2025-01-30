@@ -28,7 +28,7 @@ Alternatively, you can use the provided Jupyter Notebook to run the project step
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/heart-disease-classification.git
+   git clone https://github.com/avikumar5/heart-disease-project.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -58,5 +58,5 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 This project is licensed under the MIT License.
 
 ## Author
-[Your Name] - [Your GitHub Profile]
+Kshitiz Kumar - avikumar5
 
